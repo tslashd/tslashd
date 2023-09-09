@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍  I'm based in Bulgaria
 
 <a href="https://www.github.com/tslashd" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/tslashd?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/tslashd?logo=github&style=for-the-badge&color=f97316&labelColor=181824" /></a>
 
 ### Skills
 
@@ -22,11 +22,11 @@ src="https://img.shields.io/github/followers/tslashd?logo=github&style=for-the-b
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/tslashd"><img src="https://github-readme-stats.vercel.app/api?username=tslashd&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tslashd's GitHub stats" /></a>
+<a href="http://www.github.com/tslashd"><img src="https://github-readme-stats.vercel.app/api?username=tslashd&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=181824&hide_border=true&show_icons=true" alt="tslashd's GitHub stats" /></a>
 
-<a href="http://www.github.com/tslashd"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tslashd&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/tslashd"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tslashd&stroke=ffffff&background=181824&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/tslashd" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tslashd&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/tslashd" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tslashd&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
